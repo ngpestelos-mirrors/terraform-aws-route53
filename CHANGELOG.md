@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [6.5.1](https://github.com/terraform-aws-modules/terraform-aws-route53/compare/v6.5.0...v6.5.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#141](https://github.com/terraform-aws-modules/terraform-aws-route53/issues/141)) ([101a5f4](https://github.com/terraform-aws-modules/terraform-aws-route53/commit/101a5f41a2e3f3b47714682286f37f5e732ffb16))
+
 ## [6.5.0](https://github.com/terraform-aws-modules/terraform-aws-route53/compare/v6.4.0...v6.5.0) (2026-05-01)
 
 ### Features
